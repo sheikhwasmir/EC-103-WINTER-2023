@@ -6,3 +6,4 @@
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
 | 1   | 03-01-2024   |Lecture 1- Introduction                | [03.01.2024]()|
+| 2   | 04-01-2024   |Lecture 2- Basic Concepts                | [04.01.2024]()|
