@@ -10,7 +10,7 @@
 
 
 ### - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Use IIITG mail to access the course materials.`
-### - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Personal mail will have no access. Do not send for request access!!!' 
+### - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Personal mail will have no access. Do not send for request access!!!` 
 
 Use IIITG mail to access the course materials. Personal mail will have no access. Do not send for request access!!!
 
