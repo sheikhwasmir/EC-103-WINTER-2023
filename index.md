@@ -1,6 +1,10 @@
 
 ### EC103: Basic Electronic Circuits
 
+### Syllabus for Module I - [Click here](https://drive.google.com/file/d/1m0mXXL7dhsLFtHPK44GYrvnm7liWhWIc/view?usp=drive_link)
+
+
+
 ### Check your attendance [here](https://docs.google.com/spreadsheets/d/1yNiIIjAywhVXiK2x9jj3zgPhZ0jQdoqe/edit?usp=drive_link&ouid=116384381532910939364&rtpof=true&sd=true)
 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
