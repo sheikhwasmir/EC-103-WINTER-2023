@@ -11,6 +11,7 @@
 
 ### <span style="color: green;">Use Personal mail will have no access. Do not send for request access!!!.</span>
 
+### - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Use IIITG mail to access the course materials.`
 
 Use IIITG mail to access the course materials. Personal mail will have no access. Do not send for request access!!!
 
