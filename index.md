@@ -3,11 +3,7 @@
 
 ### Syllabus for Module I - [Click here](https://drive.google.com/file/d/1m0mXXL7dhsLFtHPK44GYrvnm7liWhWIc/view?usp=drive_link)
 
-
-
 ### Check your attendance [here](https://docs.google.com/spreadsheets/d/1yNiIIjAywhVXiK2x9jj3zgPhZ0jQdoqe/edit#gid=1744225881)
-
-https://docs.google.com/spreadsheets/d/1yNiIIjAywhVXiK2x9jj3zgPhZ0jQdoqe/edit#gid=1744225881
 
 ### - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Use IIITG mail to access the course materials.`
 ### - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Personal mail will have no access. Do not send for request access!!!` 
