@@ -7,13 +7,19 @@
 
 ### Check your attendance [here](https://docs.google.com/spreadsheets/d/1yNiIIjAywhVXiK2x9jj3zgPhZ0jQdoqe/edit?usp=drive_link&ouid=116384381532910939364&rtpof=true&sd=true)
 
-### <span style="color: green;">Use IIITG mail to access the course materials.</span>
 
-### <span style="color: green;">Use Personal mail will have no access. Do not send for request access!!!.</span>
 
-### - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Use IIITG mail to access the course materials.`
+### - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Use IIITG mail to access the course materials.`
+### - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Personal mail will have no access. Do not send for request access!!!' 
 
 Use IIITG mail to access the course materials. Personal mail will have no access. Do not send for request access!!!
+
+<!-- 
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` RED
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015` GREEN
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0` BLUE
+-->
+
 
 <!-- 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
