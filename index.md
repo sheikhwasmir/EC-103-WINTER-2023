@@ -18,7 +18,7 @@ Use IIITG mail to access the course materials. Personal mail will have no access
 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
-| 1   | 14-02-2024   |Lecture 20- Amplifier and Op-amp (Continued)                | [03.01.2024](https://drive.google.com/file/d/1_AlVKeN-jZCpXFm9Bwjw1qCc5Ab6Hdmx/view?usp=drive_link)|
+| 1   | 14-02-2024   |Lecture 20- Amplifier and Op-amp (Continued)                | [14.02.2024](https://drive.google.com/file/d/1_AlVKeN-jZCpXFm9Bwjw1qCc5Ab6Hdmx/view?usp=drive_link)|
 
 <!-- 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
