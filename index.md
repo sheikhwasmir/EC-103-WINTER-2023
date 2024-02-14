@@ -19,9 +19,9 @@ Use IIITG mail to access the course materials. Personal mail will have no access
 | Sl. No. | Date of Lecture | Topics                                       | Slides                                                                                               |
 |:---:|:--:|:--|:--------------------------:|
 
-| 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier | [12-13.01.2024](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| &lt;br&gt;<..>
-| 2       | 23-01-2024      |Lecture 10    - Diode Applications (Continued)| [23.01.2024](https://drive.google.com/file/d/1K1FrFqjg2FY6QMT7bFwo-D-_PasuSmZ-/view?usp=drive_link)| &lt;br&gt;<..>
-| 3       | 14-02-2024      |Lecture 20    - Amplifier & Op-amp (Continued)| [14.02.2024](https://drive.google.com/file/d/1_AlVKeN-jZCpXFm9Bwjw1qCc5Ab6Hdmx/view?usp=drive_link)| &lt;br&gt;<..>
+| 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier | [12-13.01.2024](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| &lt;br&gt;<br>
+| 2       | 23-01-2024      |Lecture 10    - Diode Applications (Continued)| [23.01.2024](https://drive.google.com/file/d/1K1FrFqjg2FY6QMT7bFwo-D-_PasuSmZ-/view?usp=drive_link)|    &lt;br&gt;<br>
+| 3       | 14-02-2024      |Lecture 20    - Amplifier & Op-amp (Continued)| [14.02.2024](https://drive.google.com/file/d/1_AlVKeN-jZCpXFm9Bwjw1qCc5Ab6Hdmx/view?usp=drive_link)|    &lt;br&gt;<br>
 
 <!-- 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
