@@ -9,14 +9,15 @@
 ### -  Use IIITG mail to access the course materials.
 ### - Personal mail will have no access. Do not send for request access!!!
 
-Use IIITG mail to access the course materials. Personal mail will have no access. Do not send for request access!!!
 
-<!-- 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` RED
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015` GREEN
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0` BLUE
---> 
+### Syllabus and Study Materials List
+| Sl. No. | Modole | Topic  | Study Materials|                                                                                              
+|:---:|:--:|:--|:--------------------------:|
+| 1       | Module I      |Diode & Diode Applications | [Click here](https://drive.google.com/file/d/1m0mXXL7dhsLFtHPK44GYrvnm7liWhWIc/view?usp=drive_link)| 
+| 2       | Module I      |Zener Diode & Regulation| [Click here](https://drive.google.com/file/d/1VX3f9UhrAJ_nfnBANNEInw2rtrgD8Rkf/view?usp=drive_link)|   
+| 3       | Module II     |Amplifiers & Op-amps| [Click here](https://drive.google.com/file/d/1DQX1PFbMY4NosTxH0jxBNMqEXKnAFmXe/view?usp=drive_link)| 
 
+### Slides
 | Sl. No. | Date of Lecture | Topics  | Slides|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 | 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier | [12-13.01.2024](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| 
@@ -29,3 +30,8 @@ Use IIITG mail to access the course materials. Personal mail will have no access
 | 1   | 03-01-2024   |Lecture 1- Introduction                | [03.01.2024]()|
 | 2   | 04-01-2024   |Lecture 2- Basic Concepts                | [04.01.2024]()|
 -->
+<!-- 
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` RED
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015` GREEN
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0` BLUE
+--> 
