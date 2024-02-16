@@ -13,7 +13,7 @@
 
 
 ### Syllabus and Study Materials List
-| Sl. No. | Modole | Topic  | Study Materials|                                                                                              
+| Sl. No. | Modole | Topic  | Study Material List|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 | 1       | Module I      |Diode & Diode Applications | [Click here](https://drive.google.com/file/d/1m0mXXL7dhsLFtHPK44GYrvnm7liWhWIc/view?usp=drive_link)| 
 | 2       | Module I      |Zener Diode & Regulation| [Click here](https://drive.google.com/file/d/1VX3f9UhrAJ_nfnBANNEInw2rtrgD8Rkf/view?usp=drive_link)|   
