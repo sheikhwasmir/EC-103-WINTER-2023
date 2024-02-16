@@ -6,7 +6,7 @@
 ### Syllabus and Study Materials for Module II: Amplifiers & Op-amps      - [Click here](https://drive.google.com/file/d/1DQX1PFbMY4NosTxH0jxBNMqEXKnAFmXe/view?usp=drive_link)
 ### Check your attendance - [Click here](https://docs.google.com/spreadsheets/d/1yNiIIjAywhVXiK2x9jj3zgPhZ0jQdoqe/edit#gid=1744225881)
 
-### -  <span style="color:blue"> Use IIITG mail to access the course materials. </span>
+### -  <red> Use IIITG mail to access the course materials. </red>
 ### - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Personal mail will have no access. Do not send for request access!!!` 
 
 Use IIITG mail to access the course materials. Personal mail will have no access. Do not send for request access!!!
