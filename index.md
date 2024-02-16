@@ -17,7 +17,7 @@ Use IIITG mail to access the course materials. Personal mail will have no access
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0` BLUE
 --> 
 
-| Sl. No. | Date of Lecture | Topics                                       | Slides                                                                                               |
+| Sl. No. | Date of Lecture | Topics  | Slides|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 
 | 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier | [12-13.01.2024](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| 
