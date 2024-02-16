@@ -12,7 +12,7 @@
 ### - Personal mail will have no access. Do not send for request access!!!
 
 
-### Syllabus and Study Materials List
+### Syllabus
 | Sl. No. | Modole | Topic  | Study Material List|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 | 1       | Module I      |Diode & Diode Applications | [Click here](https://drive.google.com/file/d/1m0mXXL7dhsLFtHPK44GYrvnm7liWhWIc/view?usp=drive_link)| 
