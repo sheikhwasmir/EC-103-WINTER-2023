@@ -16,8 +16,9 @@
 | Sl. No. | Modole | Topic  | Study Material List|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 | 1       | Module I      |Diode & Diode Applications | [Click here](https://drive.google.com/file/d/1m0mXXL7dhsLFtHPK44GYrvnm7liWhWIc/view?usp=drive_link)| 
-| 2       | Module I      |Zener Diode & Regulation| [Click here](https://drive.google.com/file/d/1VX3f9UhrAJ_nfnBANNEInw2rtrgD8Rkf/view?usp=drive_link)|   
-| 3       | Module II     |Amplifiers & Op-amps| [Click here](https://drive.google.com/file/d/1DQX1PFbMY4NosTxH0jxBNMqEXKnAFmXe/view?usp=drive_link)| 
+| 1 (1)       | Module I      |Zener Diode & Regulation| [Click here](https://drive.google.com/file/d/1VX3f9UhrAJ_nfnBANNEInw2rtrgD8Rkf/view?usp=drive_link)|   
+| 2       | Module II     |Amplifiers & Op-amps| [Click here](https://drive.google.com/file/d/1DQX1PFbMY4NosTxH0jxBNMqEXKnAFmXe/view?usp=drive_link)| 
+| 3       | Module III     |Filters| [Click here](https://drive.google.com/file/d/1LdcZtGFY443TKM5cn9bMNNnLRNZFnX_p/view?usp=drive_link)|
 
 ### Slides
 | Sl. No. | Date of Lecture | Topics  | Slides|                                                                                              
