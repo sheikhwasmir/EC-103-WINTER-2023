@@ -19,6 +19,7 @@
 | 1 (1)       | Module I      |Zener Diode & Regulation| [Click here](https://drive.google.com/file/d/1VX3f9UhrAJ_nfnBANNEInw2rtrgD8Rkf/view?usp=drive_link)|   
 | 2       | Module II     |Amplifiers & Op-amps| [Click here](https://drive.google.com/file/d/1DQX1PFbMY4NosTxH0jxBNMqEXKnAFmXe/view?usp=drive_link)| 
 | 3       | Module III     |Filters| [Click here](https://drive.google.com/file/d/1LdcZtGFY443TKM5cn9bMNNnLRNZFnX_p/view?usp=drive_link)|
+| 3       | Module IV    |Feedbacks & Oscillators | [Click here](https://drive.google.com/file/d/1OJX158ycNEVR0KbY-OHQBPWRXsUm9O1t/view?usp=drive_link)|
 
 ### Slides
 | Sl. No. | Date of Lecture | Topics  | Slides|                                                                                              
