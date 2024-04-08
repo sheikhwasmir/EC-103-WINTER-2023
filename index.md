@@ -28,6 +28,8 @@
 | 2       | 23-01-2024      |Lecture 10    - Diode Applications (Continued)| [23.01.2024](https://drive.google.com/file/d/1K1FrFqjg2FY6QMT7bFwo-D-_PasuSmZ-/view?usp=drive_link)|   
 | 3       | 14-02-2024      |Lecture 20    - Amplifier & Op-amp (Continued)| [14.02.2024](https://drive.google.com/file/d/1_AlVKeN-jZCpXFm9Bwjw1qCc5Ab6Hdmx/view?usp=drive_link)|  
 | 4       | 26-03-2024      |Lecture 32    - Opamp Oscillators             | [26.03.2024](https://drive.google.com/file/d/104vcDlr9fjF8rU2wAE8eKM9DoWQBT5e4/view?usp=drive_link)|
+| 5      | 27-03-2024      |Lecture 33 & 34    - Opamp Comparators            | [27.03.2024](https://drive.google.com/file/d/1ZmLaja09cngSWRH3a2MJkRPUVQ_4ii1f/view?usp=drive_link)|
+| 6      | 08-04-2024      |Lecture 37    - Multivibrators            | [08.04.2024](https://drive.google.com/file/d/1ww8bvAPJYVIZD8PcoIov-f7A_7RZkt2K/view?usp=drive_link)|
 
 ### Text Books & Other Materials
 | Sl. No. | Book/Source w/ Author | Title | Link to Source|                                                                                              
