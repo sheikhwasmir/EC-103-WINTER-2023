@@ -44,8 +44,7 @@
 | 8       | Microelectronic Circuits, Sedra, Smith, 6th Edition                      |NA|  [MCSedraSmith6th](https://drive.google.com/file/d/1tE5_JP7BTmpXA534-nC8elmAt_mIpsXz/view?usp=drive_link)|
 | 9       | Operational Amplifiers & Linear Integrated Circuits, Fiore, 3rd Edition  |NA|  [OALICFiore3rd](https://drive.google.com/file/d/12eif4aKTSKeLkbMX6yXnKdLuR4TFzJvv/view?usp=drive_link)| 
 | 10       | Oscillators, University of Cincinnati, ECES 352 Winter 2007             |NA|  [ECES352Winter2007](https://docs.google.com/presentation/d/1ynPjHI-oBTz8gG-su4NwTZF-xLRFdXyK/edit?usp=drive_link&ouid=116384381532910939364&rtpof=true&sd=true)|
-
-
+| 11       | Op-amp Comparators & Positive Feedback, MIT Open Course Ware, Spring 2006|NA|  [MIT_OCW_Spring2006](https://drive.google.com/file/d/1HFjFLWVZ-kb9YSOw8hz2S3njShboO5vw/view?usp=drive_link)|
 
 <!-- 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
