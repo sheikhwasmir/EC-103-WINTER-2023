@@ -27,7 +27,7 @@
 ### Slides
 | Sl. No. | Date of Lecture | Topics  | Slides / Lecture Notes|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
-| 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier | [12-13.01.2024](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| 
+| 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier | [12&13.01.2024](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| 
 | 2       | 23-01-2024      |Lecture 10    - Diode Applications (Continued)| [23.01.2024](https://drive.google.com/file/d/1K1FrFqjg2FY6QMT7bFwo-D-_PasuSmZ-/view?usp=drive_link)|   
 | 3       | 14-02-2024      |Lecture 20    - Amplifier & Op-amp (Continued)| [14.02.2024](https://drive.google.com/file/d/1_AlVKeN-jZCpXFm9Bwjw1qCc5Ab6Hdmx/view?usp=drive_link)|  
 | 4       | 26-03-2024      |Lecture 32    - Opamp Oscillators             | [26.03.2024](https://drive.google.com/file/d/104vcDlr9fjF8rU2wAE8eKM9DoWQBT5e4/view?usp=drive_link)|
