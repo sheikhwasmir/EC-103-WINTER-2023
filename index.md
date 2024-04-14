@@ -20,8 +20,8 @@
 | 2       | Module II     |Amplifiers & Op-amps| [Click here](https://drive.google.com/file/d/1DQX1PFbMY4NosTxH0jxBNMqEXKnAFmXe/view?usp=drive_link)| 
 | 3       | Module III     |Filters| [Click here](https://drive.google.com/file/d/1LdcZtGFY443TKM5cn9bMNNnLRNZFnX_p/view?usp=drive_link)|
 | 4       | Module IV    |Feedbacks & Oscillators | [Click here](https://drive.google.com/file/d/1OJX158ycNEVR0KbY-OHQBPWRXsUm9O1t/view?usp=drive_link)|
-| 5       | Module V    |Comparators, Schmitt Triggers & 555 Timer | [Click here](https://drive.google.com/file/d/1I_c8LdV4TasaIyxN6sqjRwRTaRJLVXjg/view?usp=drive_link)|
-
+| 5       | Module V    |Comparators, Schmitt Triggers & 555 Timer | [Click here](https://drive.google.com/file/d/1KEUrIa_TffWblW5l07BA6hri62fqnZkv/view?usp=drive_link)|
+| 5       | Module VI    |Waveform Generators | [Click here](https://drive.google.com/file/d/1YO2d7bP-TIkFs6yosEWJixxliJXTpdLN/view?usp=drive_link)|
 
 
 ### Slides
