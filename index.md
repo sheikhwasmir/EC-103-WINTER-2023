@@ -36,6 +36,7 @@
 | 7      |   03 & 08-04-2024    |Lecture 37 & 38   - Multivibrators (Continued)            | [03&08.04.2024](https://drive.google.com/file/d/1ww8bvAPJYVIZD8PcoIov-f7A_7RZkt2K/view?usp=drive_link)|
 | 8      | 10-04-2024      |Lecture 39    - Traingular Wave Generators           | [10.04.2024](https://drive.google.com/file/d/10us43-6a8L4_il78Y-LiH_-9D85-_H6o/view?usp=drive_link)|
 | 9      | 10-04-2024      |Lecture 40    - 555 Multivibrators                   | [10(1).04.2024](https://drive.google.com/file/d/1MRMLif9CExtKksYEm1qs7YsJMQAK9nLW/view?usp=drive_link)|
+| 9      | 16-04-2024      |Lecture 41    - 555 Multivibrators (Continued)       | [16.04.2024](https://docs.google.com/presentation/d/1O4wU_mYu6Gmq7GYjmz6pV9MmRPO8yIwn/edit?usp=drive_link&ouid=116384381532910939364&rtpof=true&sd=true)|
 ### Text Books & Other Materials
 | Sl. No. | Book/Source w/ Author | Title | Link to Source|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
