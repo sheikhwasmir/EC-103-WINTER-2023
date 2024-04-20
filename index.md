@@ -9,7 +9,7 @@
 ### Check your attendance - [Click here](https://docs.google.com/spreadsheets/d/1yNiIIjAywhVXiK2x9jj3zgPhZ0jQdoqe/edit#gid=1744225881)
 
 ### -  Use IIITG mail to access the course materials.
-### - Personal mail will have no access. Do not send for request access!!!
+<code style="color : name_color">### - Personal mail will have no access. Do not send for request access!!!</code> ### - Personal mail will have no access. Do not send for request access!!!
 
 
 ### Syllabus
@@ -21,7 +21,7 @@
 | 3       | Module III     |Filters| [Click here](https://drive.google.com/file/d/1LdcZtGFY443TKM5cn9bMNNnLRNZFnX_p/view?usp=drive_link)|
 | 4       | Module IV    |Feedbacks & Oscillators | [Click here](https://drive.google.com/file/d/1OJX158ycNEVR0KbY-OHQBPWRXsUm9O1t/view?usp=drive_link)|
 | 5       | Module V    |Comparators, Schmitt Triggers & 555 Timer | [Click here](https://drive.google.com/file/d/1KEUrIa_TffWblW5l07BA6hri62fqnZkv/view?usp=drive_link)|
-| 5       | Module VI    |Waveform Generators | [Click here](https://drive.google.com/file/d/1YO2d7bP-TIkFs6yosEWJixxliJXTpdLN/view?usp=drive_link)|
+| 6       | Module VI    |Waveform Generators | [Click here](https://drive.google.com/file/d/1YO2d7bP-TIkFs6yosEWJixxliJXTpdLN/view?usp=drive_link)|
 
 
 ### Slides
@@ -36,7 +36,7 @@
 | 7      |   03 & 08-04-2024    |Lecture 37 & 38   - Multivibrators (Continued)            | [03&08.04.2024](https://drive.google.com/file/d/1ww8bvAPJYVIZD8PcoIov-f7A_7RZkt2K/view?usp=drive_link)|
 | 8      | 10-04-2024      |Lecture 39    - Traingular Wave Generators           | [10.04.2024](https://drive.google.com/file/d/10us43-6a8L4_il78Y-LiH_-9D85-_H6o/view?usp=drive_link)|
 | 9      | 10-04-2024      |Lecture 40    - 555 Multivibrators                   | [10(1).04.2024](https://drive.google.com/file/d/1MRMLif9CExtKksYEm1qs7YsJMQAK9nLW/view?usp=drive_link)|
-| 9      | 16-04-2024      |Lecture 41    - 555 Multivibrators (Continued)       | [16.04.2024](https://drive.google.com/file/d/1rzaM7VqAqGJi6_DIf9MbQnZ88gs7EFyo/view?usp=drive_link)|
+| 10      | 16-04-2024      |Lecture 41    - 555 Multivibrators (Continued)       | [16.04.2024](https://drive.google.com/file/d/1rzaM7VqAqGJi6_DIf9MbQnZ88gs7EFyo/view?usp=drive_link)|
 ### Text Books & Other Materials
 | Sl. No. | Book/Source w/ Author | Title | Link to Source|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
