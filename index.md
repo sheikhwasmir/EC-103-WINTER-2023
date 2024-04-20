@@ -1,5 +1,5 @@
 
-### EC103: Basic Electronic Circuits
+### EC103: BASIC ELECTRONIC CIRCUITS
 
 <!-- 
 ### Syllabus and Study Materials for Module I: Diode & Diode Applications - [Click here](https://drive.google.com/file/d/1m0mXXL7dhsLFtHPK44GYrvnm7liWhWIc/view?usp=drive_link)
