@@ -24,23 +24,23 @@
 | 4       | Module IV    |Feedbacks & Oscillators | [Click here](https://drive.google.com/file/d/1OJX158ycNEVR0KbY-OHQBPWRXsUm9O1t/view?usp=drive_link)|
 | 5       | Module V    |Comparators, Schmitt Triggers & 555 Timer | [Click here](https://drive.google.com/file/d/1KEUrIa_TffWblW5l07BA6hri62fqnZkv/view?usp=drive_link)|
 | 6       | Module VI    |Waveform Generators | [Click here](https://drive.google.com/file/d/1YO2d7bP-TIkFs6yosEWJixxliJXTpdLN/view?usp=drive_link)|
-
+| 7       | Module VII    |Analog-Digital Conversion | [Click here](https://drive.google.com/file/d/1rmQAaHb2IrtJi3Xd1-bDOqlR_uI9rPWq/view?usp=drive_link)|
 
 ### Slides
-| Sl. No. | Date of Lecture | Topics  | Slides / Lecture Notes|                                                                                              
+| Sl. No. | Date of Lecture Session | Topic | Slide / Lecture Note|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
-| 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier        | [12&13.01.2024](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| 
-| 2       | 23-01-2024      |Lecture 10    - Diode Applications (Continued)       | [23.01.2024](https://drive.google.com/file/d/1K1FrFqjg2FY6QMT7bFwo-D-_PasuSmZ-/view?usp=drive_link)|   
-| 3       | 14-02-2024      |Lecture 20    - Amplifier & Op-amp (Continued)       | [14.02.2024](https://drive.google.com/file/d/1_AlVKeN-jZCpXFm9Bwjw1qCc5Ab6Hdmx/view?usp=drive_link)|  
-| 4       | 26-03-2024      |Lecture 32    - Opamp Oscillators                    | [26.03.2024](https://drive.google.com/file/d/104vcDlr9fjF8rU2wAE8eKM9DoWQBT5e4/view?usp=drive_link)|
-| 5       | 27-03-2024      |Lecture 33 & 34    - Opamp Comparators               | [27.03.2024](https://drive.google.com/file/d/1ZmLaja09cngSWRH3a2MJkRPUVQ_4ii1f/view?usp=drive_link)|
-| 6       | 02 & 03-04-2024 |Lecture 36 & 37   - Multivibrators                   | [02&03.04.2024](https://drive.google.com/file/d/1LZgUXVXXUjmv3Bjxc0bTL7Mvktm4i_gJ/view?usp=drive_link)|
-| 7       | 03 & 08-04-2024 |Lecture 37 & 38   - Multivibrators (Continued)       | [03&08.04.2024](https://drive.google.com/file/d/1ww8bvAPJYVIZD8PcoIov-f7A_7RZkt2K/view?usp=drive_link)|
-| 8       | 10-04-2024      |Lecture 39    - Traingular Wave Generators           | [10.04.2024](https://drive.google.com/file/d/10us43-6a8L4_il78Y-LiH_-9D85-_H6o/view?usp=drive_link)|
-| 9       | 10-04-2024      |Lecture 40    - 555 Multivibrators                   | [10(1).04.2024](https://drive.google.com/file/d/1MRMLif9CExtKksYEm1qs7YsJMQAK9nLW/view?usp=drive_link)|
-| 10      | 16-04-2024      |Lecture 41    - 555 Multivibrators (Continued)       | [16.04.2024](https://drive.google.com/file/d/1rzaM7VqAqGJi6_DIf9MbQnZ88gs7EFyo/view?usp=drive_link)|
-| 10      | 18-04-2024      |Lecture 42    - Digital to Analog Converters (DACs)  | [18.04.2024](https://drive.google.com/file/d/1cnMIAZ5-1GMEFGUrvT4KigWKs39rqjDL/view?usp=drive_link)|
-| 10      | 19-04-2024      |Lecture 43 & 44- Analog to Digital Converters (ADCs) | [19.04.2024](https://drive.google.com/file/d/1_lqug1gngIaD3KLUceVyucZ3wn8H6hSH/view?usp=drive_link)|
+| 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier        | [Click here](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| 
+| 2       | 23-01-2024      |Lecture 10    - Diode Applications (Continued)       | [Click here](https://drive.google.com/file/d/1K1FrFqjg2FY6QMT7bFwo-D-_PasuSmZ-/view?usp=drive_link)|   
+| 3       | 14-02-2024      |Lecture 20    - Amplifier & Op-amp (Continued)       | [Click here](https://drive.google.com/file/d/1_AlVKeN-jZCpXFm9Bwjw1qCc5Ab6Hdmx/view?usp=drive_link)|  
+| 4       | 26-03-2024      |Lecture 32    - Opamp Oscillators                    | [Click here](https://drive.google.com/file/d/104vcDlr9fjF8rU2wAE8eKM9DoWQBT5e4/view?usp=drive_link)|
+| 5       | 27-03-2024      |Lecture 33 & 34    - Opamp Comparators               | [Click here](https://drive.google.com/file/d/1ZmLaja09cngSWRH3a2MJkRPUVQ_4ii1f/view?usp=drive_link)|
+| 6       | 02 & 03-04-2024 |Lecture 36 & 37   - Multivibrators                   | [Click here](https://drive.google.com/file/d/1LZgUXVXXUjmv3Bjxc0bTL7Mvktm4i_gJ/view?usp=drive_link)|
+| 7       | 03 & 08-04-2024 |Lecture 37 & 38   - Multivibrators (Continued)       | [Click here](https://drive.google.com/file/d/1ww8bvAPJYVIZD8PcoIov-f7A_7RZkt2K/view?usp=drive_link)|
+| 8       | 10-04-2024      |Lecture 39    - Traingular Wave Generators           | [Click here](https://drive.google.com/file/d/10us43-6a8L4_il78Y-LiH_-9D85-_H6o/view?usp=drive_link)|
+| 9       | 10-04-2024      |Lecture 40    - 555 Multivibrators                   | [Click here](https://drive.google.com/file/d/1MRMLif9CExtKksYEm1qs7YsJMQAK9nLW/view?usp=drive_link)|
+| 10      | 16-04-2024      |Lecture 41    - 555 Multivibrators (Continued)       | [Click here](https://drive.google.com/file/d/1rzaM7VqAqGJi6_DIf9MbQnZ88gs7EFyo/view?usp=drive_link)|
+| 11      | 18-04-2024      |Lecture 42    - Digital to Analog Converters (DACs)  | [Click here](https://drive.google.com/file/d/1cnMIAZ5-1GMEFGUrvT4KigWKs39rqjDL/view?usp=drive_link)|
+| 12      | 19-04-2024      |Lecture 43 & 44- Analog to Digital Converters (ADCs) | [Click here](https://drive.google.com/file/d/1_lqug1gngIaD3KLUceVyucZ3wn8H6hSH/view?usp=drive_link)|
 
 
 ### Text Books & Other Materials
