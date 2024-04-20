@@ -10,8 +10,8 @@
 
 ### -  Use IIITG mail to access the course materials.
 
-### - <code style="color : name_color">Personal mail will have no access. Do not send for request access!!!</code>
-<!-- <code style="red : name_color">### - Personal mail will have no access. Do not send for request access!!!</code> ### - Personal mail will have no access. Do not send for request access!!!
+### - <code style="red : name_color">Personal mail will have no access. Do not send for request access!!!</code>
+<!-- <code style="color : red">### - Personal mail will have no access. Do not send for request access!!!</code> ### - Personal mail will have no access. Do not send for request access!!!
 --> 
 
 ### Syllabus
