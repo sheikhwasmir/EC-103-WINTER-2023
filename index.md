@@ -12,7 +12,7 @@
 
 ### - <code style="color : red">Personal mail will have no access. Do not send for request access!!!</code>
 
-***Last day of Lecture Sessions on 19-April-2024 for the Monsoon Semester 2023-24*** 
+### ***Last day of Lecture Sessions on 19-April-2024 for the Monsoon Semester 2023-24*** 
 
 ### Syllabus
 | Sl. No. | Modole | Topic  | Study Material List|                                                                                              
