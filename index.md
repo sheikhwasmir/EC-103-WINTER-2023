@@ -9,8 +9,10 @@
 ### Check your attendance - [Click here](https://docs.google.com/spreadsheets/d/1yNiIIjAywhVXiK2x9jj3zgPhZ0jQdoqe/edit#gid=1744225881)
 
 ### -  Use IIITG mail to access the course materials.
-<code style="color : name_color">### - Personal mail will have no access. Do not send for request access!!!</code> ### - Personal mail will have no access. Do not send for request access!!!
 
+### - <code style="color : name_color">Personal mail will have no access. Do not send for request access!!!</code>
+<!-- <code style="color : name_color">### - Personal mail will have no access. Do not send for request access!!!</code> ### - Personal mail will have no access. Do not send for request access!!!
+--> 
 
 ### Syllabus
 | Sl. No. | Modole | Topic  | Study Material List|                                                                                              
