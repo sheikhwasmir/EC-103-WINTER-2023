@@ -11,8 +11,12 @@
 ### -  Use IIITG mail to access the course materials.
 
 ### - <code style="color : red">Personal mail will have no access. Do not send for request access!!!</code>
-<!-- <code style="color : red">### - Personal mail will have no access. Do not send for request access!!!</code> ### - Personal mail will have no access. Do not send for request access!!!
---> 
+
+
+<code style="color : red">### -Personal mail will have no access. Do not send for request access!!!</code></code>
+
+
+
 
 ### Syllabus
 | Sl. No. | Modole | Topic  | Study Material List|                                                                                              
