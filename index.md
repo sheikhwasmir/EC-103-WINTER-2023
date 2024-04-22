@@ -1,4 +1,4 @@
-
+```
 ### EC103: BASIC ELECTRONIC CIRCUITS
 
 <!-- 
@@ -67,7 +67,9 @@
 | 1   | 03-01-2024   |Lecture 1- Introduction                | [03.01.2024]()|
 | 2   | 04-01-2024   |Lecture 2- Basic Concepts                | [04.01.2024]()|
 -->
-<!-- 
+<!--
+
+```
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` RED
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015` GREEN
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0` BLUE
