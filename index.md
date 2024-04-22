@@ -14,7 +14,7 @@
 
 ### - $\textcolor{blue}{Last\ day\ of\ Lecture\ Sessions\ on\ 19th\ April\ 2024\ (Friday)\ for\ the\ Monsoon\ Semester\ 2023-24\}$
 
-### ***Last day of Lecture Sessions on 19-April-2024 for the Monsoon Semester 2023-24*** 
+<!-- ### ***Last day of Lecture Sessions on 19-April-2024 for the Monsoon Semester 2023-24*** --> 
 
 ### Syllabus
 | Sl. No. | Modole | Topic  | Study Material List|                                                                                              
