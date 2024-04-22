@@ -42,7 +42,7 @@
 | 9       | 10-04-2024      |Lecture 40    - 555 Multivibrators                   | [Click here](https://drive.google.com/file/d/1MRMLif9CExtKksYEm1qs7YsJMQAK9nLW/view?usp=drive_link)|
 | 10      | 16-04-2024      |Lecture 41    - 555 Multivibrators (Continued)       | [Click here](https://drive.google.com/file/d/1rzaM7VqAqGJi6_DIf9MbQnZ88gs7EFyo/view?usp=drive_link)|
 | 11      | 18-04-2024      |Lecture 42    - Digital to Analog Converters (DACs)  | [Click here](https://drive.google.com/file/d/1cnMIAZ5-1GMEFGUrvT4KigWKs39rqjDL/view?usp=drive_link)|
-| 12      | 19-04-2024      |$\textcolor{green}{Lecture\ 43\ &\ 44\-\ Analog\ to\ Digital\ Converters\ (ADCs)\}$ | [Updated on 21-04-2024](https://drive.google.com/file/d/1TP-OIZyMTWE-HAnUHR4m6pjlCj061JYA/view?usp=drive_link)|
+| 12      | 19-04-2024      |$\textcolor{green}{Lecture\ 43\ and\ 44\-\ Analog\ to\ Digital\ Converters\ (ADCs)\}$ | [Updated on 21-04-2024](https://drive.google.com/file/d/1TP-OIZyMTWE-HAnUHR4m6pjlCj061JYA/view?usp=drive_link)|
 
 
 
