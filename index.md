@@ -44,7 +44,7 @@
 | 11      | 18-04-2024      |Lecture 42    - Digital to Analog Converters (DACs)  | [Click here](https://drive.google.com/file/d/1cnMIAZ5-1GMEFGUrvT4KigWKs39rqjDL/view?usp=drive_link)|
 | 12      | 19-04-2024      |$\textcolor{green}{Lecture\ 43\ and\ 44\-\ Analog\ to\ Digital\ Converters\ (ADCs)\}$ | [Updated on 21-04-2024](https://drive.google.com/file/d/1TP-OIZyMTWE-HAnUHR4m6pjlCj061JYA/view?usp=drive_link)|
 
-
+| 13      | 18 & 19-04-2024 |$\textcolor{green}{Additional Notes\ on \ R-2R \ladder\ DAC\,\ Counter\ type\ ADC\ and\ SAR\ type\ ADC}$ | [Updated on 21-04-2024](https://drive.google.com/file/d/1TP-OIZyMTWE-HAnUHR4m6pjlCj061JYA/view?usp=drive_link)|
 
 ### Text Books & Other Materials
 | Sl. No. | Book/Source w/ Author | Title | Link to Source|                                                                                              
