@@ -6,7 +6,7 @@
 ### Syllabus and Study Materials for Module I: Zener Diode & Regulation   - [Click here](https://drive.google.com/file/d/1VX3f9UhrAJ_nfnBANNEInw2rtrgD8Rkf/view?usp=drive_link)
 ### Syllabus and Study Materials for Module II: Amplifiers & Op-amps      - [Click here](https://drive.google.com/file/d/1DQX1PFbMY4NosTxH0jxBNMqEXKnAFmXe/view?usp=drive_link)
 --> 
-### Check your attendance - [Click here](https://docs.google.com/spreadsheets/d/1yNiIIjAywhVXiK2x9jj3zgPhZ0jQdoqe/edit#gid=1744225881)
+### Check your attendance $\textcolor{blue}{Updated\ on\ 22nd\ April\ 2024\}$ - [Click here](https://docs.google.com/spreadsheets/d/1yNiIIjAywhVXiK2x9jj3zgPhZ0jQdoqe/edit#gid=1744225881)
 
 ### - $\textcolor{green}{Use\ IIITG\ mail\ to\ access\ the\ course\ materials.\}$
 
