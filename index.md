@@ -12,6 +12,7 @@
 
 ### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
 
+### - $\textcolor{blue}{Last\ day\ of\ Lecture\ Sessions\ on\ 19-April-2024\ for\ the\ Monsoon\ Semester\ 2023-24\}$
 
 ### ***Last day of Lecture Sessions on 19-April-2024 for the Monsoon Semester 2023-24*** 
 
