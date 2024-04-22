@@ -13,7 +13,7 @@
 ### - <code style="color : red">Personal mail will have no access. Do not send for request access!!!</code>
 
 
-### - $\textcolor{green}{Use\ IIITG\ mail\ to\ access\ the\ cours\e materials.\}$
+### - $\textcolor{green}{Use\ IIITG\ mail\ to\ access\ the\ course\ materials.\}$
 
 ### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
 
