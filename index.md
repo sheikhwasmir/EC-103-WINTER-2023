@@ -8,11 +8,6 @@
 --> 
 ### Check your attendance - [Click here](https://docs.google.com/spreadsheets/d/1yNiIIjAywhVXiK2x9jj3zgPhZ0jQdoqe/edit#gid=1744225881)
 
-### -  Use IIITG mail to access the course materials.
-
-### - <code style="color : red">Personal mail will have no access. Do not send for request access!!!</code>
-
-
 ### - $\textcolor{green}{Use\ IIITG\ mail\ to\ access\ the\ course\ materials.\}$
 
 ### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
