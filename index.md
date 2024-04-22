@@ -12,7 +12,10 @@
 
 ### - <code style="color : red">Personal mail will have no access. Do not send for request access!!!</code>
 
-## $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
+
+### - $\textcolor{green}{Use\ IIITG\ mail\ to\ access\ the\ cours\e materials.\}$
+
+### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
 
 
 ### ***Last day of Lecture Sessions on 19-April-2024 for the Monsoon Semester 2023-24*** 
