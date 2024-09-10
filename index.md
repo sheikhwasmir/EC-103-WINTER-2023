@@ -12,10 +12,9 @@
 
 ### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
 
-### - $\textcolor{blue}{Last\ day\ of\ Lecture\ Sessions\ on\ 19th\ April\ 2024\ (Friday)\ for\ the\ Monsoon\ Semester\ 2023-24\}$
 
-<!-- ### ***Last day of Lecture Sessions on 19-April-2024 for the Monsoon Semester 2023-24*** --> 
 
+ <!-- 
 ### Syllabus
 | Sl. No. | Modole | Topic  | Study Material List|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
@@ -27,23 +26,14 @@
 | 5       | Module V    |Comparators, Schmitt Triggers & 555 Timer | [Click here](https://drive.google.com/file/d/1KEUrIa_TffWblW5l07BA6hri62fqnZkv/view?usp=drive_link)|
 | 6       | Module VI    |Waveform Generators | [Click here](https://drive.google.com/file/d/1YO2d7bP-TIkFs6yosEWJixxliJXTpdLN/view?usp=drive_link)|
 | 7       | Module VII    |Analog-Digital Conversion | [Click here](https://drive.google.com/file/d/1rmQAaHb2IrtJi3Xd1-bDOqlR_uI9rPWq/view?usp=drive_link)|
-
+-->
 ### Slides
 | Sl. No. | Date of Lecture Session | Topic | Slide / Lecture Note|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
-| 1       | 13-01-2024      |Lecture 6 & 7 - Zener Diode & Diode Rectifier        | [Click here](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| 
-| 2       | 23-01-2024      |Lecture 10    - Diode Applications (Continued)       | [Click here](https://drive.google.com/file/d/1K1FrFqjg2FY6QMT7bFwo-D-_PasuSmZ-/view?usp=drive_link)|   
-| 3       | 14-02-2024      |Lecture 20    - Amplifier & Op-amp (Continued)       | [Click here](https://drive.google.com/file/d/1_AlVKeN-jZCpXFm9Bwjw1qCc5Ab6Hdmx/view?usp=drive_link)|  
-| 4       | 26-03-2024      |Lecture 32    - Opamp Oscillators                    | [Click here](https://drive.google.com/file/d/104vcDlr9fjF8rU2wAE8eKM9DoWQBT5e4/view?usp=drive_link)|
-| 5       | 27-03-2024      |Lecture 33 & 34    - Opamp Comparators               | [Click here](https://drive.google.com/file/d/1ZmLaja09cngSWRH3a2MJkRPUVQ_4ii1f/view?usp=drive_link)|
-| 6       | 02 & 03-04-2024 |Lecture 36 & 37   - Multivibrators                   | [Click here](https://drive.google.com/file/d/1LZgUXVXXUjmv3Bjxc0bTL7Mvktm4i_gJ/view?usp=drive_link)|
-| 7       | 03 & 08-04-2024 |Lecture 37 & 38   - Multivibrators (Continued)       | [Click here](https://drive.google.com/file/d/1ww8bvAPJYVIZD8PcoIov-f7A_7RZkt2K/view?usp=drive_link)|
-| 8       | 10-04-2024      |Lecture 39    - Traingular Wave Generators           | [Click here](https://drive.google.com/file/d/10us43-6a8L4_il78Y-LiH_-9D85-_H6o/view?usp=drive_link)|
-| 9       | 10-04-2024      |Lecture 40    - 555 Multivibrators                   | [Click here](https://drive.google.com/file/d/1MRMLif9CExtKksYEm1qs7YsJMQAK9nLW/view?usp=drive_link)|
-| 10      | 16-04-2024      |Lecture 41    - 555 Multivibrators (Continued)       | [Click here](https://drive.google.com/file/d/1rzaM7VqAqGJi6_DIf9MbQnZ88gs7EFyo/view?usp=drive_link)|
-| 11      | 18-04-2024      |Lecture 42    - Digital to Analog Converters (DACs)  | [Click here](https://drive.google.com/file/d/1cnMIAZ5-1GMEFGUrvT4KigWKs39rqjDL/view?usp=drive_link)|
-| 12      | 19-04-2024      |$\textcolor{green}{Lecture\ 43\ and\ 44\-\ Analog\ to\ Digital\ Converters\ (ADCs)\}$ | [Updated on 21-04-2024](https://drive.google.com/file/d/1TP-OIZyMTWE-HAnUHR4m6pjlCj061JYA/view?usp=drive_link)|
-| 13      | 18 & 19-04-2024 |$\textcolor{green}{Additional\ Notes\ on\ R\-\ 2R\ ladder\ DAC\,\ Counter\ type\ ADC\ and\ SAR\ type\ ADC}$ | [Updated on 22-04-2024](https://drive.google.com/file/d/1fedUDKeX-NdQla5wbae_FPsxeh-NN89S/view?usp=drive_link)|
+| 1       | 28-Aug-2024     |Lecture 06 - Binary Codes        | [Click here](https://drive.google.com/file/d/1II2kEuDeOIMcXgOpxD5ueqF1_CNYf_el/view?usp=drive_link)| 
+| 2       | 23-01-2024      |Lecture 11 - Digital Gates & K-Maps       | [Click here](https://drive.google.com/file/d/1K1FrFqjg2FY6QMT7bFwo-D-_PasuSmZ-/view?usp=drive_link)|   
+| 3       | 14-02-2024      |Lecture 11 - K-Maps & Two-Level Implementation       | [Click here](https://drive.google.com/file/d/1_AlVKeN-jZCpXFm9Bwjw1qCc5Ab6Hdmx/view?usp=drive_link)|  
+
 
 ### Text Books & Other Materials
 | Sl. No. | Book/Source w/ Author | Title | Link to Source|                                                                                              
