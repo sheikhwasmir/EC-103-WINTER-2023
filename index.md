@@ -1,5 +1,5 @@
 
-### EC103: BASIC ELECTRONIC CIRCUITS
+### BASIC ELECTRONIC CIRCUITS || WINTER 2023 || ACADEMIC YEAR 2023-24
 
 <!-- 
 ### Syllabus and Study Materials for Module I: Diode & Diode Applications - [Click here](https://drive.google.com/file/d/1m0mXXL7dhsLFtHPK44GYrvnm7liWhWIc/view?usp=drive_link)
