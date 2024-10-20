@@ -44,9 +44,8 @@
 | 12      | 19-04-2024      |$\textcolor{green}{Lecture\ 43\ and\ 44\-\ Analog\ to\ Digital\ Converters\ (ADCs)\}$ | [Updated on 21-04-2024](https://drive.google.com/file/d/1TP-OIZyMTWE-HAnUHR4m6pjlCj061JYA/view?usp=drive_link)|
 | 13      | 18 & 19-04-2024 |$\textcolor{green}{Additional\ Notes\ on\ R\-\ 2R\ ladder\ DAC\,\ Counter\ type\ ADC\ and\ SAR\ type\ ADC}$ | [Updated on 22-04-2024](https://drive.google.com/file/d/1fedUDKeX-NdQla5wbae_FPsxeh-NN89S/view?usp=drive_link)| 
 
-
 ### Text Books & Other Materials
-| Sl. No. | Book/Source w/ Author | Title | Link to Source|                                                                                              
+| Sl. No. | Book/Source with Author | Title | Link to Source|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 | 1       | Electronic Devices, Floyd, 9th Edition                                   |NA|  [EDFloyd9th](https://drive.google.com/file/d/1c7afu7bZdLWjZCwdJVBVNuywIrtSWRbh/view?usp=drive_link)| 
 | 2       | Microelectronic Circuits, Rashid, 2th Edition                            |NA|  [MCRashid2nd](https://drive.google.com/file/d/1nrcsEI2a1WSicE3VEgikrJilBDoogtRQ/view?usp=drive_link)|   
